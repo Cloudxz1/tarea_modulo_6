@@ -1,0 +1,21 @@
+{
+  "name": "rebound_vanesabrionesibacache",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./src/index.js",
+    "dev_2": "node ./src/ejercicio_2.js"
+  },
+  "keywords": [
+    "tarea",
+    "node"
+  ],
+  "author": "Vanesa Briones",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
